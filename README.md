@@ -1,4 +1,3 @@
-# Hybrid-QLearning-Maze-Solver
 Q-Learning x GA: Hybrid Pathfinding Simulator
 1. 概要
 本プロジェクトは、強化学習（Q-Learning）と遺伝的アルゴリズム（GA）を組み合わせたハイブリッド手法により、未知の迷路環境において最短かつ安全な経路を自律探索するシミュレーターです。
